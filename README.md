@@ -1,9 +1,44 @@
-Designed and developed a functional XY Pen Plotter, integrating mechanical, electrical, and software components, and adhering to the V-model framework.
+## 🖊️ XY Pen Plotter – Mechatronics System Development
 
-Created precise CAD models using SolidWorks and fabricated custom components with 3D printing for optimal precision and fitment.
+A functional XY Pen Plotter developed through the integration of mechanical design, embedded programming, and control system logic, following the V-model engineering lifecycle.
 
-Programmed the ESP32 microcontroller for motion control, pen actuation, and system automation, ensuring reliable performance.
+---
 
-Addressed technical challenges like wire routing and sensor noise with innovative solutions, followed by thorough testing and calibration.
+### 🛠️ Key Contributions
 
-Collaborated in a multidisciplinary team, contributing to mechanical assembly, electrical design, and system optimization.
+- ⚙️ **Mechanical Design & Fabrication**  
+  ➤ Designed precise **CAD models** in SolidWorks  
+  ➤ Fabricated custom parts using **3D printing** for optimized fit and high mechanical precision  
+
+- 🧠 **Embedded System Programming**  
+  ➤ Programmed the **ESP32 microcontroller** to manage:  
+  - Stepper motor motion control  
+  - Pen actuation routines  
+  - Full system automation and calibration workflows  
+
+- 🚧 **Hardware Optimization & Troubleshooting**  
+  ➤ Solved key integration issues such as:  
+  - **Wire routing and cable management**  
+  - **Sensor noise filtering** for stable operation  
+  ➤ Performed rigorous **testing and tuning** for consistent output quality  
+
+- 🤝 **Multidisciplinary Collaboration**  
+  ➤ Collaborated in a **cross-functional team** to:  
+  - Assemble mechanical structures  
+  - Design electrical circuits  
+  - Fine-tune system-level performance and user interaction  
+
+- 📐 **System Architecture – V-Model Application**  
+  ➤ Followed the **V-model framework** for development:  
+  - Requirements capture → Design → Implementation → Validation  
+  - Ensured systematic traceability and modular development
+
+---
+
+### 🔧 Tools & Technologies Used
+- SolidWorks (3D CAD Modeling)  
+- ESP32 Microcontroller (Wi-Fi + Motion Control)  
+- Stepper Motors, Drivers, and End Sensors  
+- Arduino IDE · Embedded C  
+- 3D Printing (PLA/FDM)  
+- V-Model Software Development Lifecycle  
